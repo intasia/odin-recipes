@@ -1,1 +1,1 @@
-This is odinproject first Project practice. This project is about making list of recipes base on HTML5. 
+This is theodinproject first Project practice. This project is about making list of recipes base on HTML5. 
